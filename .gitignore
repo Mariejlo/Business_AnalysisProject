@@ -1,0 +1,6 @@
+# Ignore system and hidden files
+.vscode/
+AppData/
+Documents/
+Cookies/
+*.lock
